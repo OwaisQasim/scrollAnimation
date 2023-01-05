@@ -8,6 +8,7 @@ body {
     justify-content: center;
     flex-direction: column;
     margin: 0;
+    viewport-fit: auto;
 }
 
 h1 {
